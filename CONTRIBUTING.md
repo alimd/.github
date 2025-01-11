@@ -45,6 +45,10 @@ Must be one of the following:
 - **chore**: Other changes that don't modify `src`
 - **merge**: Merge branches, solve conflict, etc
 - **release**: Release new version
+- **revert**: Revert commit or pull request
+- **deps**: Update dependencies
+- **test**: Adding missing tests or correcting existing tests
+- **ci**: Changes to our CI configuration files and scripts
 
 ## Example
 
